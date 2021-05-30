@@ -1,2 +1,2 @@
-# FBInstantGameTicTacToe
-TicTacToe demo for Facebook Instant Game using Cocos Creator
+# Facebook Instant Game Demo
+To demo how to implement turn-based multiplayer game using Facebook Instant Game SDK
